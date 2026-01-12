@@ -1,0 +1,153 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "babashka@latest": {
+      "last_modified": "2025-12-18T02:44:17Z",
+      "resolved": "github:NixOS/nixpkgs/def3da69945bbe338c373fddad5a1bb49cf199ce#babashka",
+      "source": "devbox-search",
+      "version": "1.12.209",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dyrk9dr2knsm1ki1gqqs8zqx0hakzx1x-babashka-1.12.209",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/dyrk9dr2knsm1ki1gqqs8zqx0hakzx1x-babashka-1.12.209"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jwg4325glcylpdi78lwll5kw9ah3gibz-babashka-1.12.209",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/jwg4325glcylpdi78lwll5kw9ah3gibz-babashka-1.12.209"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/lw4b0lpnl7xqqlwfbr8qn3p6qc9kqnwv-babashka-1.12.209",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/lw4b0lpnl7xqqlwfbr8qn3p6qc9kqnwv-babashka-1.12.209"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nsx99vy3nqbs9mfb2g86clpsd7c46vdl-babashka-1.12.209",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/nsx99vy3nqbs9mfb2g86clpsd7c46vdl-babashka-1.12.209"
+        }
+      }
+    },
+    "clojure@latest": {
+      "last_modified": "2025-12-18T02:44:17Z",
+      "resolved": "github:NixOS/nixpkgs/def3da69945bbe338c373fddad5a1bb49cf199ce#clojure",
+      "source": "devbox-search",
+      "version": "1.12.3.1577",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/20407npw1qc6m8yqwqs7yhhjvyvqr0aa-clojure-1.12.3.1577",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/20407npw1qc6m8yqwqs7yhhjvyvqr0aa-clojure-1.12.3.1577"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/l3cn9g4sbv8w9f7dwigrrcasbzby2vz2-clojure-1.12.3.1577",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/l3cn9g4sbv8w9f7dwigrrcasbzby2vz2-clojure-1.12.3.1577"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8hbqd1shbfdig8b526066szc58jgk8zx-clojure-1.12.3.1577",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/8hbqd1shbfdig8b526066szc58jgk8zx-clojure-1.12.3.1577"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/whap12vkky54syv4gj5npj2fb782mwvy-clojure-1.12.3.1577",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/whap12vkky54syv4gj5npj2fb782mwvy-clojure-1.12.3.1577"
+        }
+      }
+    },
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "last_modified": "2025-12-19T06:18:24Z",
+      "resolved": "github:NixOS/nixpkgs/7d853e518814cca2a657b72eeba67ae20ebf7059?lastModified=1766125104&narHash=sha256-l%2FYGrEpLromL4viUo5GmFH3K5M1j0Mb9O%2BLiaeCPWEM%3D"
+    },
+    "leiningen@latest": {
+      "last_modified": "2025-12-18T02:44:17Z",
+      "resolved": "github:NixOS/nixpkgs/def3da69945bbe338c373fddad5a1bb49cf199ce#leiningen",
+      "source": "devbox-search",
+      "version": "2.11.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vz0nbnrm5hz5nam1i051s814fgrx13g5-leiningen-2.11.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vz0nbnrm5hz5nam1i051s814fgrx13g5-leiningen-2.11.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/g4knm6gbmjabsxv72910mib4xbng36s3-leiningen-2.11.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/g4knm6gbmjabsxv72910mib4xbng36s3-leiningen-2.11.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dqm8kkhdrqgan0amzwrkkvkzvhnpvdm0-leiningen-2.11.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/dqm8kkhdrqgan0amzwrkkvkzvhnpvdm0-leiningen-2.11.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/z5a7561kbga05qfqv37mi7gvsh8d5fxg-leiningen-2.11.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/z5a7561kbga05qfqv37mi7gvsh8d5fxg-leiningen-2.11.2"
+        }
+      }
+    }
+  }
+}

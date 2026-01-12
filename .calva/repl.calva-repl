@@ -1,0 +1,75 @@
+; Jacking in...
+; Connecting using "Clojure (projectless)" project type.
+; Starting Jack-in: (cd /Users/mattiastengbrand/Documents/github/10gbrand/clojure_test; clojure -Sdeps '{:deps {nrepl/nrepl {:mvn/version,"1.5.1"},cider/cider-nrepl {:mvn/version,"0.58.0"}}}' -M -m nrepl.cmdline --middleware "[cider.nrepl/cider-middleware]")
+; Using host:port localhost:49839 ...
+; Hooking up nREPL sessions on port 49839...
+; Connected session: clj, port: 49839
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉user꞉> 
+"Please see https://calva.io/output/#about-stdout-in-the-repl-window
+about why stdout printed to this file is prepended with `;` to be line comments."
+clj꞉user꞉> 
+; Jack-in done.
+clj꞉user꞉> 
+#'get-started.hello-repl/greet
+clj꞉get-started.hello-repl꞉> 
+QUIT
+clj꞉get-started.hello-repl꞉> 
+QUIT
+clj꞉get-started.hello-repl꞉> 
+; Evaluating file: hello_repl.clj
+"hello_repl.clj is loaded, and ready with some things for you to try."
+clj꞉get-started.hello-repl꞉> 
+; Evaluating file: hello_repl.clj
+"hello_repl.clj is loaded, and ready with some things for you to try."
+clj꞉get-started.hello-repl꞉> 
+"Welcome to the Getting Started REPL! 💜"
+clj꞉get-started.hello-repl꞉> 
+"Welcome to the Getting Started REPL! 💜"
+clj꞉get-started.hello-repl꞉> 
+; Syntax error compiling at (src/get_started/hello_repl.clj:0:0).
+; Can't take value of a macro: #'clojure.core/comment
+clj꞉get-started.hello-repl꞉> 
+("Give me an R! ~•~ R!" "Give me an E! ~•~ E!" "Give me a  P! ~•~ P!" "Give me an L! ~•~ L!" "What do you get?" "REPL!")
+clj꞉get-started.hello-repl꞉> 
+"Welcome to the Getting Started REPL! 💜"
+clj꞉get-started.hello-repl꞉> 
+"Welcome to the Getting Started REPL! 💜"
+clj꞉get-started.hello-repl꞉> 
+"Hello World!"
+clj꞉get-started.hello-repl꞉> 
+("I am using the REPL! 💪"
+ "I am using the REPL! 💪"
+ "I am using the REPL! 💪"
+ "I am using the REPL! 💪"
+ "I am using the REPL! 💪"
+ "I am using the REPL! 💪"
+ "I am using the REPL! 💪")
+clj꞉get-started.hello-repl꞉> 
+("Give me an R! ~•~ R!" "Give me an E! ~•~ E!" "Give me a  P! ~•~ P!" "Give me an L! ~•~ L!" "What do you get?" "REPL!")
+clj꞉get-started.hello-repl꞉> 
+("Give me an R! ~•~ R!" "Give me an E! ~•~ E!" "Give me a  P! ~•~ P!" "Give me an L! ~•~ L!" "What do you get?" "REPL!")
+clj꞉get-started.hello-repl꞉> 
+("Give me an R! ~•~ R!" "Give me an E! ~•~ E!" "Give me a  P! ~•~ P!" "Give me an L! ~•~ L!" "What do you get?" "REPL!")
+clj꞉get-started.hello-repl꞉> 
+("Give me an R! ~•~ R!" "Give me an E! ~•~ E!" "Give me a  P! ~•~ P!" "Give me an L! ~•~ L!" "What do you get?" "REPL!")
+clj꞉get-started.hello-repl꞉> 
+("Give me an R! ~•~ R!" "Give me an E! ~•~ E!" "Give me a  P! ~•~ P!" "Give me an L! ~•~ L!" "What do you get?" "REPL!")
+clj꞉get-started.hello-repl꞉> 
+:rcf
+clj꞉get-started.hello-repl꞉> 
+:rcf
+clj꞉get-started.hello-repl꞉> 
+#'get-started.hello-repl/greet
+clj꞉get-started.hello-repl꞉> 
+"Hello World!"
+clj꞉get-started.hello-repl꞉> 
+:rcf
+clj꞉get-started.hello-repl꞉> 
+:rcf
+clj꞉get-started.hello-repl꞉> 
+; Hello World!
+nil
+clj꞉get-started.hello-repl꞉> 
+; REPL history clearedclj꞉get-started.hello-repl꞉> 
